@@ -1,0 +1,21 @@
+html, body {
+	width: 100%;
+	margin: 0;
+	font-family: 'Open Sans';
+}
+#container {
+	overflow: auto;
+	margin: 0 auto;
+	width: 600px;
+}
+.column {
+	width: 300px;
+	background-color: rgb(238, 238, 238);
+	float: left;
+}
+
+header, footer {
+	background-color: rgb(89, 89, 89);
+	color: white;
+	text-align: center;
+}
